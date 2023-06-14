@@ -1,9 +1,9 @@
 {
-  "ads":"true",
+  "ads":"false",
   "update":[{
-    "version":"",
-    "title":"Note",
-    "description":"If you have installed any other vpn app kindly uninstall it otherwise you won't be able to connect to our VPN",
+    "version":"1.00",
+    "title":"Basic VPN",
+    "description":"Simple and Fast Connection",
     "size":""
   }],
   "blocked":[
